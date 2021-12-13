@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David (Davood) Bahadori"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Master of Information Technology Engineering \n Software Developer and Researcher"
   location         : #"Germany"
   employer         : "Freelancer"
