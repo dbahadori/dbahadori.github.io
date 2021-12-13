@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "David (Davood) Bahadori"
-description              : &description "Software & Information Technology Engineer Software Developer and Researcher"
+description              : &description "description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Bahadori"
+  name             : "David (Davood) Bahadori"
   avatar           : "profile.png"
-  bio              : "Master of Information Technology Engineering Software Developer and Researcher"
+  bio              : "Master of Information Technology Engineering | Software Developer and Researcher"
   location         : "Germany"
   employer         :  "Freelancer"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
