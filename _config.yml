@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "David (Davood) Bahadori"
   avatar           : "profile.png"
-  bio              : "Master of Information Technology Engineering | Software Developer and Researcher"
-  location         : "Germany"
+  bio              : "Master of Information Technology Engineering \n Software Developer and Researcher"
+  location         : #"Germany"
   employer         : "Freelancer"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "d.bahadori@aut.acir | davoodbahadori@gmail.com"
+  email            : "davoodbahadori@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Davood-Bahadori"
   uri              : "http://dbahadori.info/"
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/dbahadori/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
