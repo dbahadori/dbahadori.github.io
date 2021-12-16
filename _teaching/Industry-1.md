@@ -2,7 +2,7 @@
 title: "Introduction of Industry 4.0 Dimensions and Maturity Models"
 collection: teaching
 type: "Lecturing"
-permalink: /teaching/Industry4-1
+permalink: /teaching/Industry-1
 venue: "Mobarakeh Steel Company(MSC)"
 date: 2019
 location: "Esfahan, Iran"
