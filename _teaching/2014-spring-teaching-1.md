@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction of Industry 4.0 Dimensions and Maturity Models"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Lecturing"
+permalink: /teaching/Industry4.0-1
+venue: "Mobarakeh Steel Company(MSC)"
+date: 2019
+location: "Esfahan, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this lecture, I and our group of IRISA Company introduce the opportunities and challenges of industry 4.0 and digital transformation for industries with focous on maturity model of industry 4.0 to chief managers of Mobarakeh Steal Company.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
