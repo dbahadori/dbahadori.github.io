@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm David, a software engineer with MSc degree in Information Technology. I graduated from Amirkabir University of Technology, Tehran Polytechnic, which is one of the top universities in Iran; under supervision of [Prof. Ahmad Abdollahzadeh Barfourosh](http://islab.ceit.aut.ac.ir/ahmad-abdollahzadeh-barforoush/).
+Hi, I'm David, a software engineer with MSc degree in Information Technology. I graduated from Amirkabir University of Technology, Tehran Polytechnic, which is one of the top universities in Iran; under supervision of [Prof. Ahmad Abdollahzadeh Barfourosh](http://islab.ceit.aut.ac.ir/ahmad-abdollahzadeh-barforoush/). I worked on my Msc thesis in [ISLab] (http://islab.ceit.aut.ac.ir/) Laboratory in related to servie evolution in SOA domain with focus on dynamic reconfiguration of SOA-based systems by taking the advantage of Enterprise Service Bus and Event-based broker. After I got my MSc degree, I entered to real working environments. Until now besides research activities I have done several projects of different companies in related to designing and developing software application under different technologies and frameworks. In my roles I have built up both my knowledge and experience of software development and architecture.
 
 Research Interest
 ======
@@ -18,6 +18,7 @@ Research Interest
 * Reinforcement Learning as adaptation approach
 * Industry 4.0 and digital transformation / maturity model
 * Design Thinking as an useful and best practice human-centered approach to innovation.
+
 
 
 Technical Skills
