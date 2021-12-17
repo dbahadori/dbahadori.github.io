@@ -15,6 +15,6 @@ Description of our General Survey
 ======
 <img src='/images/Industry4Survey.png'>
 
-Our Picture of Industry 4.0 Dimensions  
+Our Picture of Industry 4.0 Dimensions
 ======
 <img src='/images/Industry4Dimensions.png'>
