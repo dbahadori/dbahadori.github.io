@@ -2,7 +2,7 @@
 title: "T-DSCM: A Three-Dimensional Framework for Service Change Management in SOA Environments"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/T-DSCM-talk
 venue: "ICT Research Institute (IST 2018 Symposium)"
 date: 2018-12-19
 location: "Tehran, Iran"
