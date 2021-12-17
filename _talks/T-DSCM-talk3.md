@@ -6,10 +6,8 @@ permalink: /talks/T-DSCM-talk
 venue: "ICT Research Institute (IST 2018 Symposium)"
 date: 2018-12-19
 location: "Tehran, Iran"
+One of the most important issues in Service Oriented Architecture (SOA) environment is continuous development of services, which is also known as service evolution.
 ---
-One of the most important issues in Service Oriented
-Architecture (SOA) environment is continuous development of
-services, which is also known as service evolution.
 
 [Link to Slide](files/Bahadori_1525-ist2018.ppsx)
 
