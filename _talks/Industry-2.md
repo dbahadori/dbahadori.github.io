@@ -1,8 +1,8 @@
 ---
 title: "Introduction of Industry 4.0 and Its Core Technologies"
-collection: teaching
+collection: talks
 type: "Lecturing"
-permalink: /teaching/Industry-2
+permalink: /talks/Industry-2
 venue: "Hormozgan Steel Company (HOSCO)"
 date: 2019-03-01
 location: "Bandar Abbas, Iran"
