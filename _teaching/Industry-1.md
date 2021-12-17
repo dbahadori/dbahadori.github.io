@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecturing"
 permalink: /teaching/Industry-1
 venue: "Mobarakeh Steel Company(MSC)"
-date: 2019
+date: 2019-01-01
 location: "Esfahan, Iran"
 ---
 
