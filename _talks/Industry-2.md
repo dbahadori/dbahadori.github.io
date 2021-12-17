@@ -1,5 +1,5 @@
 ---
-title: "Introduction of Industry 4.0 Dimensions and Core Technologies"
+title: "Introduction of Industry 4.0 and Its Core Technologies"
 collection: teaching
 type: "Lecturing"
 permalink: /teaching/Industry-2
