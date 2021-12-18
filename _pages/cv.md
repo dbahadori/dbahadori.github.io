@@ -11,13 +11,11 @@ redirect_from:
 <br/>
 <br/>
 <br/>
-
 ## Education
 * M.Sc. in Information Technology Engineering, [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en), Iran, 2014
 * B.Sc. in Computer Engineering (Software), [Birjand University](https://birjand.ac.ir/en), Iran, 2010
 * A.Sc. in , Computer Software, [Shahid Chamran University of Ahvaz (Jundi Shapur)](https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C) , Iran, 2008
 
-<br/>
 ## Work experience
 * **2021: Freelancer Developer**
   * Best Group Company (as Project), Canada
@@ -70,7 +68,6 @@ redirect_from:
     * Developing SOAP based web services for proprietary USSD&SMS gateway using Axis2.
     * Benchmarking open source VOIP Servers and initializing a scalable one.
 
-<br/>
 ## Key Skills
 * Programming Language
   * Java
@@ -97,25 +94,21 @@ redirect_from:
   * Git 
   * SVN
 
-<br/>
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<br/>  
 ## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-<br/> 
 ## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <br/>
-You can download my CV at [here](files/Davood_Bahadori's_CV-v2.0.pdf)
-# <br/>
-# ## Service and leadership
+* You can download my full technical CV at [here](https://dbahadori.github.io/files/David_Bahadori's_CV.pdf)*
+# Service and leadership
 # * Currently signed in to 43 different slack teams
