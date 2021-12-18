@@ -27,8 +27,7 @@ Work experience
   * Key responsibilities: 
     * Developing a Maturity Model and a Road Map for Digital Transformation (Smartization) of Mobarake Steel Company (MSC)
   * Key achievements
-    * A general survey about available Industry 4.0 and Digital Transformation maturity models
-    * A benchmark of Top Industry 4.0 maturity models
+    * A general survey and benchmark of Industry 4.0 and Digital Transformation maturity models
     * A categorization of Industry 4.0 Dimensions
     * Initialize and configure WSO2 IoT Server
 
