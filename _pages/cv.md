@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* 2021: Freelancer Developer
+* ##2021: Freelancer Developer##
   * Best Group Company (as Project), Canada
   * Key achievements: 
     * Implemented a web automation application for Multi-Step booking System using Selenium framework and Python language.
 
-* August 2018 - May 2019: Research Assistant
+* ##August 2018 - May 2019: Research Assistant##
   * IRISA Company (contractor of Mobarakeh Steel Co.), Iran
   * Key responsibilities: 
     * Developing a Maturity Model and a Road Map for Digital Transformation (Smartization) of Mobarake Steel Company (MSC)
@@ -32,7 +32,7 @@ Work experience
     * A categorization of Industry 4.0 Dimensions
     * Initialize and configure WSO2 IoT Server
 
-* May 2017 – March 2018: REST API and Client Application Developer
+* ##May 2017 – March 2018: REST API and Client Application Developer##
   * Rayan Ham-Afza Company, Iran
   * Key achievements
     * Implemented an e-payment service integrated with more than 10 banks with different security policies and mechanisms using dependency injection and factory patterns (Java and play framework).
@@ -43,7 +43,7 @@ Work experience
     * Customizing the Material Skin Controls for .Net WinForms in order to use in client side application.
     * Migrating proprietary stock brokers and investment funds software from web based application (Struts framework) to service based application, REST API (play framework).
 
-* September 2016 – December 2016: Research Assistant
+* ##September 2016 – December 2016: Research Assistant##
   * ARKA Company, Iran
   * Key achievements
     * Benchmarked the Open Source Web Development Frameworks for .NET and selected suitable technologies and frameworks as well as implemented some scenarios using the proposed frameworks (ServiceStack, NLog and FluentValidation).
@@ -52,12 +52,12 @@ Work experience
   * Key responsibilities
     * Provide a framework for development team that comprised of open source framework and meet technical requirements of project such as logging, exception handling, changeability and validation.
 
-* September 2015 – November 2015: Analyst and Designer
+* ##September 2015 – November 2015: Analyst and Designer##
   * Tavana Resaneh Company (as Project), Iran
     * Key responsibilities
       * Analysis and design architecture of a web based system, comprised of server and client side applications for online burger shopping using UML 2.0.
 
-* January 2014 – May 2015: Software Developer
+* ##January 2014 – May 2015: Software Developer##
   * Tavana Group Comapny
   * Key achievements
     * Implemented a web based system for automatic plagiarism detection using Lucene.Net and ASP.Net MCV.
