@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Information Technology Engineering, Amirkabir University of Technology (Tehran Polytechnic), Iran, 2014
+* B.Sc. in Computer Engineering (Software), Birjand University, Iran, 2010
+* A.Sc. in , Computer Software, Shahid Chamran University of Ahvaz (Jundi Shapur), Iran, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2018 - May 2019: Research Assistant
+  * IRISA Company (contractor of Mobarakeh Steel Co.)
+  * Duties included: 
+    * Developing a Maturity Model and a Road Map for Digital Transformation (Smartization) of Mobarake Steel Company (MSC)
+  * Supervisor: Milad Halajian
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 – March 2018: REST API and Client Application Developer
+  * Rayan Ham-Afza Company,
+  * Duties included: 
+    * Migrating proprietary stock brokers and investment funds software from web based application (Struts framework) to service based application, REST API (play framework).
+    * Customizing the Material Skin Controls for .Net WinForms in order to use in client side application.
   
 Skills
 ======
