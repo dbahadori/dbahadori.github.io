@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Amazing Site"
+title                    : "David (Davood) Bahadori"
 title_separator          : "-"
 name                     : &name "David (Davood) Bahadori"
-description              : &description "This is the personal website to demonstrate my projects and professional works"
-url                      : https://dbahadori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "This is the personal website of David (Davood) Bahadori to demonstrate his projects and professional works"
+url                      : https://dbahadori.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dbahadori/dbahadori.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,8 +50,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "HmyYn3wrg0MpiMSmvwwn9DEa-TMSFIIq0kQO6dvNFfw"
+bing_site_verification   : "57DD3276ECDE3A7FCE8A67258994EB7F"
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -68,7 +68,12 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - https://www.facebook.com/davoodbahadori
+    - https://www.linkedin.com/in/dbahadori
+    - https://github.com/dbahadori # An array of links to social media profiles
+    - https://www.researchgate.net/profile/Davood-Bahadori
+    - https://www.instagram.com/d.bahadori_86/
 
 
 # Analytics
