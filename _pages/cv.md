@@ -10,17 +10,15 @@ redirect_from:
 {% include base_path %}
 <br/>
 <br/>
+<br/>
 
-Education
-======
+## Education
 * M.Sc. in Information Technology Engineering, [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en), Iran, 2014
 * B.Sc. in Computer Engineering (Software), [Birjand University](https://birjand.ac.ir/en), Iran, 2010
 * A.Sc. in , Computer Software, [Shahid Chamran University of Ahvaz (Jundi Shapur)](https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C) , Iran, 2008
 
 <br/>
-
-Work experience
-======
+## Work experience
 * **2021: Freelancer Developer**
   * Best Group Company (as Project), Canada
   * Key achievements: 
@@ -73,9 +71,7 @@ Work experience
     * Benchmarking open source VOIP Servers and initializing a scalable one.
 
 <br/>
-
-Key Skills
-======
+## Key Skills
 * Programming Language
   * Java
   * C#
@@ -100,32 +96,26 @@ Key Skills
 * Version Control Systems
   * Git 
   * SVN
-<br/>
 
-Publications
-======
+<br/>
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <br/>  
-
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 <br/> 
-
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
 <br/>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can download my CV at [here](files/Davood_Bahadori's_CV-v2.0.pdf)
+# <br/>
+# ## Service and leadership
+# * Currently signed in to 43 different slack teams
