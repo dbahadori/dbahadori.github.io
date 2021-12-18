@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+</br>
+</br>
 
 Education
 ======
 * M.Sc. in Information Technology Engineering, [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en), Iran, 2014
 * B.Sc. in Computer Engineering (Software), [Birjand University](https://birjand.ac.ir/en), Iran, 2010
 * A.Sc. in , Computer Software, [Shahid Chamran University of Ahvaz (Jundi Shapur)](https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C) , Iran, 2008
+
 
 Work experience
 ======
