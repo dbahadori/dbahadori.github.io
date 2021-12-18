@@ -109,7 +109,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <br/>
-**You can download my full technical CV at [here](https://dbahadori.github.io/files/David_Bahadori's_CV.pdf)**
+**You can download my full technical CV [here](https://dbahadori.github.io/files/David_Bahadori's_CV.pdf)**
 
 [//]: # (Service and leadership)
 [//]: # (Currently signed in to 43 different slack teams)
