@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-</br>
-</br>
+<br/>
+<br/>
 
 Education
 ======
@@ -17,7 +17,7 @@ Education
 * B.Sc. in Computer Engineering (Software), [Birjand University](https://birjand.ac.ir/en), Iran, 2010
 * A.Sc. in , Computer Software, [Shahid Chamran University of Ahvaz (Jundi Shapur)](https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C) , Iran, 2008
 
-</br>
+<br/>
 
 Work experience
 ======
@@ -72,7 +72,7 @@ Work experience
     * Developing SOAP based web services for proprietary USSD&SMS gateway using Axis2.
     * Benchmarking open source VOIP Servers and initializing a scalable one.
 
-</br>
+<br/>
 
 Key Skills
 ======
@@ -100,28 +100,31 @@ Key Skills
 * Version Control Systems
   * Git 
   * SVN
-</br>
+<br/>
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</br>  
+  
+<br/>  
 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-</br>  
+  
+<br/> 
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</br>
+
+<br/>
 
 Service and leadership
 ======
