@@ -18,6 +18,7 @@ Education
 * A.Sc. in , Computer Software, [Shahid Chamran University of Ahvaz (Jundi Shapur)](https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C) , Iran, 2008
 
 </br>
+
 Work experience
 ======
 * **2021: Freelancer Developer**
@@ -70,9 +71,9 @@ Work experience
   * Key responsibilities
     * Developing SOAP based web services for proprietary USSD&SMS gateway using Axis2.
     * Benchmarking open source VOIP Servers and initializing a scalable one.
-     
 
-</br>  
+</br>
+
 Key Skills
 ======
 * Programming Language
@@ -100,24 +101,28 @@ Key Skills
   * Git 
   * SVN
 </br>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 </br>  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 </br>  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+</br>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
