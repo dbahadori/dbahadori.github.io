@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "David (Davood) Bahadori"
   avatar           : "profile.png"
-  bio              : "Master of Information Technology Engineering from [AUT](https://aut.ac.ir/en)<br/><br/>Software Developer and Researcher"
+  bio              : "Master of Information Technology Engineering from <a href="https://aut.ac.ir/en">AUT</a><br/><br/>Software Developer and Researcher"
   location         : #"Germany"
   employer         : "Freelancer"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
