@@ -55,7 +55,6 @@ redirect_from:
   * Java
   * C#
   * Python
-  * Golang
 
 * Modeling Languages
   * UML 2.0
@@ -66,7 +65,13 @@ redirect_from:
   * Microsoft ASP.Net, MVC, and WPF 
   * Selenium
   * Lucene.Net
-
+  * 
+* Spring Projects
+  * Spring Boot
+  * Spring Security
+  * Spring Cloud Stream 
+  * Spring WebFlux
+  
 * Platforms and Tools
   * WSO2 SOA Middleware (ESB, Repository, APP Server) 
   * Elastix and Freeswitch Voip Server
