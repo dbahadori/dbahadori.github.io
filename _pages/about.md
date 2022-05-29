@@ -32,6 +32,6 @@ Technical Skills
 * Document plagiarism detection
 * I4.0 Maturity Model Development
 * Modeling Language : UML
-* Programming Languages : Java, C#, python, Golang
+* Programming Languages : Java, C#, python
 
 
