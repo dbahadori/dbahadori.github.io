@@ -44,7 +44,7 @@ redirect_from:
     * Analysing and designing a web based system, which comprised of server and client side applications for online burger shopping using UML 2.0.
 
 * **January 2014 – May 2015: Software Developer**
-  * Tavana Group Comapny
+  * Tose Arman Nikandishan (TAVANA) Company
   * Duties included:
     * Developing SOAP based web services for proprietary USSD&SMS gateway using Axis2.
     * Benchmarking open source VOIP Servers, initializing and configuring a scalable one as a Call Center Server.
