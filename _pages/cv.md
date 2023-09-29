@@ -44,11 +44,6 @@ redirect_from:
   * Duties included:
     * Providing a framework for development team, which have to be comprised of open source frameworks and meet technical requirements of project such as logging, exception handling, changeability and validation.
 
-* **September 2015 – November 2015: Analyst and Designer**
-  * Tavana Resaneh Company (as Project), Iran
-  * Duties included:
-    * Analysing and designing a web based system, which comprised of server and client side applications for online burger shopping using UML 2.0.
-
 * **January 2014 – May 2015: Software Developer**
   * Tose Arman Nikandishan (TAVANA) Company
   * Duties included:
