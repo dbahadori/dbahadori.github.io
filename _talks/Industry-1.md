@@ -11,8 +11,6 @@ excerpt: "In this lecture, I and other members of IIoT group of IRISA Company pr
 
 Title: Introduction to Industry 4.0 Dimensions and Maturity Models: Opportunities and Challenges for the Steel Industry
 
-Title: Introduction to Industry 4.0 Dimensions and Maturity Models: Opportunities and Challenges for the Steel Industry
-
 In this captivating lecture, I had the privilege of joining forces with esteemed colleagues from the IIoT group at IRISA Company to present a comprehensive overview of the transformative potential of Industry 4.0 and digital transformation specifically tailored for the steel industry. Our audience, consisting of chief managers from Mobarakeh Steel Company, were introduced to the boundless opportunities and pressing challenges that lie ahead in this era of technological advancement.
 During the lecture, we delved into the intricate details of Industry 4.0 and its core dimensions, shedding light on the crucial aspects that define this revolutionary paradigm. With a focused approach, we navigated through the complexities of the digital transformation journey, emphasizing the importance of adopting a maturity model to guide the smartization process.
 
