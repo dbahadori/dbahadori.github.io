@@ -17,8 +17,14 @@ redirect_from:
 * A.Sc. in , Computer Software, [Shahid Chamran University of Ahvaz (Jundi Shapur)](https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C) , Iran, 2008
 
 ## Work experience
+* **2022: software engineer**
+  * Medis Holding, Iran
+  * Duties included: 
+    * Analyzed, designed, and documented service-based applications, collaborating with cross-functional teams in startup projects.
+    * Implemented clean architecture and SOLID principles, empowering developers to build scalable, robust applications based on established best practices.         
+    * Provided application blueprints, design patterns, and coding guidelines to facilitate efficient development and maintainability.
+
 * **2021: Freelancer Developer**
-  * Best Group Company (as Project), Canada
   * Duties included: 
     * Implemented a web automation application for Multi-Step booking System using Selenium framework and Python language.
 
@@ -96,7 +102,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <br/>
-**You can download my full technical CV [here](https://dbahadori.github.io/files/David_Bahadori's_CV.pdf)**
+**You can download my full technical CV [here](https://dbahadori.github.io/files/David's Resume.pdf)**
 
 [//]: # (Service and leadership)
 [//]: # (Currently signed in to 43 different slack teams)
