@@ -5,7 +5,7 @@ permalink: /publication/classification-evolution-service-based-systems
 date: 2021-09-26
 venue: 'Medium'
 paperurl: 'https://medium.com/@dbahadori/classification-of-evolution-in-service-based-systems-5c7449ee34c5'
-excerpt: "Explore the dynamic landscape of service-based system evolution, addressing changes, effects, and classifications for optimized performance and user satisfaction."
+excerpt: "Delve into the dynamic evolution of service-based systems, examining changes, effects, and classifications to optimize performance and user satisfaction."
 ---
 ## Introduction
 
