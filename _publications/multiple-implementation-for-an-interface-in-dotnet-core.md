@@ -5,7 +5,7 @@ permalink: /publication/multiple-implementation-for-an-interface-in-dotnet-core
 date: 2023-12-07
 venue: 'Medium'
 paperurl: 'https://medium.com/@dbahadori/dynamic-implementation-selection-in-net-core-a-guide-to-flexible-dependency-injection-22fc96b1b14a'
-excerpt: "Explore methods for dynamically selecting and utilizing different implementations in .NET Core applications through Dependency Injection. Enhance flexibility and adaptability in your application design."
+excerpt: "Discover techniques for dynamically selecting and utilizing various implementations in .NET Core applications through Dependency Injection. Enhance the flexibility and adaptability of your application design. Dive in for more insights."
 ---
 ## Introduction
 
