@@ -1,7 +1,7 @@
 ---
 title: "Classification of Evolution in Service-based Systems"
 collection: publications
-permalink: /publication/classification-evolution
+permalink: /publication/classification-evolution-service-based-systems
 date: 2021-09-26
 venue: 'Medium'
 paperurl: 'https://medium.com/@dbahadori/classification-of-evolution-in-service-based-systems-5c7449ee34c5'
